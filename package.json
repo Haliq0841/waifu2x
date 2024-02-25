@@ -8,12 +8,7 @@
     "start": "tsc && node dist/start.js",
     "prepublishOnly": "tsc"
   },
-  "keywords": [
-    "waifu2x",
-    "anime",
-    "image",
-    "upscaling"
-  ],
+  "keywords": "anim",
   "repository": {
     "type": "git",
     "url": "https://github.com/Tenpi/waifu2x"
